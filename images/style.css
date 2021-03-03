@@ -1,0 +1,35 @@
+body{
+    background-image: url(bg.png);
+    color: black;
+}
+.texttospeech{
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;   
+}
+
+.form-range{
+    opacity: 1;
+    filter: brightness(110%);
+}
+
+#icon{
+    width: 40px;
+    height: 40px;
+    
+}
+
+.slide-in{
+    animation: slide-in 0.5s ease forwards;
+}
+
+@keyframes slide-in{
+    from{
+        transform: translateX(100%);
+        visibility: visible;
+    }
+    to{
+        transform: translateX(0%);
+    }
+}
