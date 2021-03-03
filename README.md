@@ -6,3 +6,5 @@ This is code for the Text to Speech website.
 * You can even change the PITCH and RATE of speaking.
 
 For the website link, [Click Here](https://dishanttayade.github.io/text-to-speech/)
+
+Feel free to improve website by contributing
