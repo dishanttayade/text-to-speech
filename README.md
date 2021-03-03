@@ -7,4 +7,4 @@ This is code for the Text to Speech website.
 
 For the website link, [Click Here](https://dishanttayade.github.io/text-to-speech/)
 
-Feel free to improve website by contributing
+Feel free to improve website by contributing to the code.
